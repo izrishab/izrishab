@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izrishab
+- 👋 Hi, I’m Rishab
 - 👀 I’m an IT student 
 - 🌱 I’m currently studying BIT (Bachelors in Information Technology)
 - 📫 How to reach me: khakurelrishab7@gmail.com
